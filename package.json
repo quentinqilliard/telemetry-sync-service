@@ -9,10 +9,10 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "steam-totp": "^2.1.2",
-    "steam-user": "^4.28.0"
+    "steam-user": "^5.0.8"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=20.0.0"
   },
   "author": "System-Operator",
   "license": "MIT"
